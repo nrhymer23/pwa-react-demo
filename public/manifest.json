@@ -1,11 +1,12 @@
 {
   "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "Weather React PWA Demo",
   "icons": [
     {
       "src": "/images/logo.png",
-      "sizes": "image/png",
-      "type": "1024x1024"
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ],
   "start_url": ".",
